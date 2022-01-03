@@ -442,7 +442,7 @@
     <value>NoControl</value>
   </data>
   <data name="ProfilePic.Location" type="System.Drawing.Point, System.Drawing">
-    <value>627, 11</value>
+    <value>710, 11</value>
   </data>
   <data name="ProfilePic.Size" type="System.Drawing.Size, System.Drawing">
     <value>25, 25</value>
@@ -478,7 +478,7 @@
     <value>NoControl</value>
   </data>
   <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>691, 6</value>
+    <value>774, 6</value>
   </data>
   <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
     <value>18, 18</value>
@@ -511,7 +511,7 @@
     <value>NoControl</value>
   </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>675, 9</value>
+    <value>758, 9</value>
   </data>
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
     <value>12, 12</value>
@@ -544,7 +544,7 @@
     <value>NoControl</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>711, 9</value>
+    <value>794, 9</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
     <value>12, 12</value>
@@ -631,7 +631,7 @@
     <value>0, 0, 0, 0</value>
   </data>
   <data name="panelTitleBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>728, 49</value>
+    <value>811, 49</value>
   </data>
   <data name="panelTitleBar.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -655,7 +655,7 @@
     <value>150, 49</value>
   </data>
   <data name="PanelShadow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>728, 10</value>
+    <value>811, 10</value>
   </data>
   <data name="PanelShadow.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -805,7 +805,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>459, 169</value>
+    <value>560, 208</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>275, 230</value>
@@ -832,7 +832,7 @@
     <value>150, 59</value>
   </data>
   <data name="PanelDesktop.Size" type="System.Drawing.Size, System.Drawing">
-    <value>728, 429</value>
+    <value>811, 429</value>
   </data>
   <data name="PanelDesktop.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -856,7 +856,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>878, 488</value>
+    <value>961, 488</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -3099,9 +3099,6 @@
         AAAAAAAAAAAAAAAAAAAAAPgHAAD4BwAA4AcAAMADAADAAwAAwAMAAOAHAAD4HwAA/D8AAPgfAAD4HwAA
         +B8AAPgfAAD//wAA//8AAP//AAA=
 </value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Form1</value>
